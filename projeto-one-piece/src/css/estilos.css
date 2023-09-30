@@ -19,7 +19,7 @@ main .personagem {
     height: 100vh;
 }
 
-main .personagem.selecionado {
+main  .personagem.selecionado {
     display: block;
 }
 
